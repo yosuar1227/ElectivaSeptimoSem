@@ -1,1 +1,1 @@
-integrantes: yosuar alfredo mieles jimenez 
+Integrantes: yosuar alfredo mieles jimenez 
