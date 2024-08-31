@@ -1,1 +1,1 @@
-# ElectivaSeptimoSem
+integrantes: yosuar alfredo mieles jimenez 
